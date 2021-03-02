@@ -1,0 +1,6 @@
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\suraj\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb

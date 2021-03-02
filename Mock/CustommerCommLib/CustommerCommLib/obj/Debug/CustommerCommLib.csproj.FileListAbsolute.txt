@@ -1,0 +1,6 @@
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\bin\Debug\CustommerCommLib.dll
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\bin\Debug\CustommerCommLib.pdb
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\obj\Debug\CustommerCommLib.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\obj\Debug\CustommerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\obj\Debug\CustommerCommLib.dll
+C:\Users\suraj\source\repos\CustommerCommLib\CustommerCommLib\obj\Debug\CustommerCommLib.pdb
