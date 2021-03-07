@@ -1,0 +1,94 @@
+﻿Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.InstallLog
+   assemblypath = C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandson.exe

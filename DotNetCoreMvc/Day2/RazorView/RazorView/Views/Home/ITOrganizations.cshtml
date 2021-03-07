@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "ITOrganizations";
+    List<string> organizations = new List<string> { "Microsoft www.microsoft.com", "CTS www.cognizant.com", "Google", "Amazon", "TCS" };
+}
+
+
+<h1>ITOrganizations</h1>
+
+@foreach (var org in organizations)
+{
+
+    if (@org.Equals("Amazon"))
+    {
+         <b>@org</b>  
+    }
+    else
+    {
+    <div>
+        @org
+    </div>
+    }
+
+}
+
+

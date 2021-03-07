@@ -1,0 +1,8 @@
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe.config
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.exe
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\bin\Debug\WindowsServiceHandsOn.pdb
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.ProjectInstaller.resources
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.csproj.GenerateResource.cache
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.exe
+C:\Users\suraj\source\repos\WindowsServiceHandsOn\WindowsServiceHandsOn\obj\Debug\WindowsServiceHandsOn.pdb

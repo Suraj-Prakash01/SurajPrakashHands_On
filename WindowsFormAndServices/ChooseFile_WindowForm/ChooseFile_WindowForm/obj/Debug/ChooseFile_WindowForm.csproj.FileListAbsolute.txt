@@ -1,0 +1,10 @@
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\bin\Debug\ChooseFile_WindowForm.exe.config
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\bin\Debug\ChooseFile_WindowForm.exe
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\bin\Debug\ChooseFile_WindowForm.pdb
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.Form1.resources
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.Properties.Resources.resources
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.csproj.GenerateResource.cache
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.exe
+C:\Users\suraj\source\repos\ChooseFile_WindowForm\ChooseFile_WindowForm\obj\Debug\ChooseFile_WindowForm.pdb
