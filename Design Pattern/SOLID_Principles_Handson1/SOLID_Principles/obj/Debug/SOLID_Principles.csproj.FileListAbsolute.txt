@@ -1,0 +1,14 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\SOLID_Principles_Handson1\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

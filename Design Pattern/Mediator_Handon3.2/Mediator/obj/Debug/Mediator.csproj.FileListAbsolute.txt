@@ -1,0 +1,6 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\bin\Debug\Mediator.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\bin\Debug\Mediator.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\obj\Debug\Mediator.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Mediator_Handon3.2\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,14 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AFactory.csprojAssemblyReference.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AFactory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\obj\Debug\AFactory.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\obj\Debug\AFactory.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\suraj\source\repos\Design Pattern\Design Pattern\AbstractFactory_Handson2.1.2\AbstractFactory\obj\Debug\AbstractFactory.pdb
